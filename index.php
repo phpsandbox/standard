@@ -4,6 +4,7 @@ $messages = [
     'Добро пожаловать в PHPSandbox',
     'Bienvenue sur PHPSandbox',
     'Bienvenido a PHPSandbox',
+    'Ekaabo',
 ];
 
 shuffle($messages);
